@@ -1,9 +1,9 @@
-package com.yash.product.service.service;
+package com.yash.productservice.service;
 
-import com.yash.product.service.dto.ProductRequest;
-import com.yash.product.service.dto.ProductResponse;
-import com.yash.product.service.model.Product;
-import com.yash.product.service.repository.ProductRepository;
+import com.yash.productservice.dto.ProductRequest;
+import com.yash.productservice.dto.ProductResponse;
+import com.yash.productservice.model.Product;
+import com.yash.productservice.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.modelmapper.ModelMapper;

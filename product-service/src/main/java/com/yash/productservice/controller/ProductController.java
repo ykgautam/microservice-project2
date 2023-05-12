@@ -1,8 +1,8 @@
-package com.yash.product.service.controller;
+package com.yash.productservice.controller;
 
-import com.yash.product.service.dto.ProductRequest;
-import com.yash.product.service.dto.ProductResponse;
-import com.yash.product.service.service.ProductService;
+import com.yash.productservice.dto.ProductRequest;
+import com.yash.productservice.dto.ProductResponse;
+import com.yash.productservice.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

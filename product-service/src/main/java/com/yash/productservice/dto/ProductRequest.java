@@ -1,4 +1,4 @@
-package com.yash.product.service.dto;
+package com.yash.productservice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
